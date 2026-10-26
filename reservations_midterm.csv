@@ -1,0 +1,151 @@
+Reservation_ID,Facility_Type,Capacity,Reservation_Duration_Hours,User_Type,Peak_Hour,Status,Usage_Status,Lead_Time_Days,Participants,Actual_Attendance,Lead_Time_Category,Reservation_Outcome,Attendance_Ratio
+RES1000,Lecture Hall,100,4,Faculty,1,Approved,Used,22,55,52,Early Booking,Completed,0.94
+RES1001,Conference Room,20,3,External,1,Cancelled,No-Show,23,11,0,Early Booking,Not Completed,0.0
+RES1002,Lab,100,2,Student,1,Approved,Used,7,65,61,Short Lead,Completed,0.94
+RES1003,Auditorium,100,5,Faculty,0,Approved,Used,14,84,62,Medium Lead,Completed,0.74
+RES1004,Auditorium,100,3,Faculty,1,Cancelled,No-Show,3,41,0,Short Lead,Not Completed,0.0
+RES1005,Lecture Hall,20,3,External,0,Approved,Used,12,8,4,Medium Lead,Completed,0.51
+RES1006,Auditorium,200,2,Student,1,Approved,Used,7,95,48,Short Lead,Completed,0.51
+RES1007,Lab,20,1,Staff,0,Approved,Used,23,7,4,Early Booking,Completed,0.58
+RES1008,Lab,50,3,Faculty,1,Cancelled,No-Show,3,25,0,Short Lead,Not Completed,0.0
+RES1009,Auditorium,200,5,Student,0,Approved,Used,13,160,112,Medium Lead,Completed,0.7
+RES1010,Conference Room,100,5,Staff,0,Approved,Used,4,49,25,Short Lead,Completed,0.51
+RES1011,Lab,50,2,Staff,0,Approved,Used,1,38,32,Last Minute,Completed,0.84
+RES1012,Auditorium,20,5,Student,1,Cancelled,No-Show,7,16,0,Short Lead,Not Completed,0.0
+RES1013,Conference Room,50,2,Student,0,Approved,Used,11,21,18,Medium Lead,Completed,0.88
+RES1014,Conference Room,100,3,External,1,Approved,Used,26,39,25,Early Booking,Completed,0.64
+RES1015,Auditorium,200,4,External,0,Approved,Used,19,69,50,Early Booking,Completed,0.72
+RES1016,Auditorium,50,5,Student,1,No-Show,No-Show,18,22,0,Early Booking,Not Completed,0.0
+RES1017,Conference Room,50,1,Staff,0,Approved,Used,26,26,17,Early Booking,Completed,0.67
+RES1018,Conference Room,50,2,Faculty,1,Approved,Used,21,19,11,Early Booking,Completed,0.6
+RES1019,Lab,20,1,Staff,0,Approved,Used,24,12,11,Early Booking,Completed,0.9
+RES1020,Auditorium,20,5,Staff,1,No-Show,No-Show,24,17,0,Early Booking,Not Completed,0.0
+RES1021,Conference Room,200,5,Faculty,1,No-Show,No-Show,29,61,0,Early Booking,Not Completed,0.0
+RES1022,Lecture Hall,50,5,Staff,1,Approved,Used,20,18,10,Early Booking,Completed,0.53
+RES1023,Lab,100,5,Student,1,Cancelled,No-Show,27,39,0,Early Booking,Not Completed,0.0
+RES1024,Conference Room,50,3,External,1,Approved,Used,4,41,28,Short Lead,Completed,0.69
+RES1025,Auditorium,20,4,External,1,Approved,Used,30,16,8,Early Booking,Completed,0.52
+RES1026,Lab,200,2,Student,1,Approved,Used,24,176,134,Early Booking,Completed,0.76
+RES1027,Lecture Hall,20,3,Faculty,0,Cancelled,No-Show,15,16,0,Early Booking,Not Completed,0.0
+RES1028,Lab,50,4,External,0,Approved,Used,28,22,11,Early Booking,Completed,0.52
+RES1029,Auditorium,20,5,Staff,0,No-Show,No-Show,25,12,0,Early Booking,Not Completed,0.0
+RES1030,Lecture Hall,50,1,Faculty,1,Approved,Used,17,41,32,Early Booking,Completed,0.78
+RES1031,Lab,20,2,Student,0,Approved,Used,25,16,14,Early Booking,Completed,0.85
+RES1032,Lecture Hall,50,2,Faculty,0,Approved,Used,12,31,28,Medium Lead,Completed,0.89
+RES1033,Auditorium,20,4,Staff,1,Cancelled,No-Show,8,9,0,Medium Lead,Not Completed,0.0
+RES1034,Auditorium,200,2,Staff,0,Approved,Used,17,167,109,Early Booking,Completed,0.65
+RES1035,Conference Room,200,1,Student,0,Approved,Used,7,163,90,Short Lead,Completed,0.55
+RES1036,Lab,50,1,Student,1,Approved,Used,5,41,36,Short Lead,Completed,0.89
+RES1037,Auditorium,50,4,Student,1,Approved,Used,27,25,16,Early Booking,Completed,0.66
+RES1038,Lecture Hall,50,2,Student,1,Approved,Used,30,25,23,Early Booking,Completed,0.93
+RES1039,Lab,50,3,Faculty,0,Approved,Used,4,39,29,Short Lead,Completed,0.75
+RES1040,Conference Room,50,2,Faculty,1,Approved,Used,8,16,13,Medium Lead,Completed,0.8
+RES1041,Auditorium,20,4,Faculty,0,Approved,Used,11,8,6,Medium Lead,Completed,0.76
+RES1042,Conference Room,100,2,Student,1,Approved,Used,7,69,46,Short Lead,Completed,0.67
+RES1043,Lecture Hall,20,3,External,0,Approved,Used,0,6,4,Last Minute,Completed,0.65
+RES1044,Auditorium,20,3,Faculty,1,Approved,Used,15,8,7,Early Booking,Completed,0.86
+RES1045,Lab,20,2,Faculty,1,Approved,Used,13,15,13,Medium Lead,Completed,0.86
+RES1046,Lecture Hall,50,2,External,1,Approved,Used,16,19,11,Early Booking,Completed,0.58
+RES1047,Auditorium,20,1,External,1,Approved,Used,27,16,13,Early Booking,Completed,0.84
+RES1048,Auditorium,200,5,External,1,Approved,Used,9,87,65,Medium Lead,Completed,0.75
+RES1049,Auditorium,20,1,Faculty,0,Approved,Used,25,17,15,Early Booking,Completed,0.86
+RES1050,Auditorium,100,4,Faculty,1,Cancelled,No-Show,25,79,0,Early Booking,Not Completed,0.0
+RES1051,Conference Room,200,5,Staff,0,No-Show,No-Show,25,156,0,Early Booking,Not Completed,0.0
+RES1052,Lab,200,2,External,1,Approved,Used,7,173,151,Short Lead,Completed,0.87
+RES1053,Conference Room,50,5,Student,1,Cancelled,No-Show,14,26,0,Medium Lead,Not Completed,0.0
+RES1054,Auditorium,100,2,Faculty,1,Approved,Used,9,32,29,Medium Lead,Completed,0.9
+RES1055,Conference Room,20,3,External,1,Approved,Used,12,14,8,Medium Lead,Completed,0.54
+RES1056,Conference Room,100,5,External,1,Cancelled,No-Show,16,54,0,Early Booking,Not Completed,0.0
+RES1057,Conference Room,50,4,Student,1,Approved,Used,28,18,17,Early Booking,Completed,0.95
+RES1058,Auditorium,20,5,Faculty,1,No-Show,No-Show,29,13,0,Early Booking,Not Completed,0.0
+RES1059,Lab,200,2,Faculty,1,Approved,Used,20,158,118,Early Booking,Completed,0.75
+RES1060,Lab,100,1,External,1,Cancelled,No-Show,28,50,0,Early Booking,Not Completed,0.0
+RES1061,Conference Room,50,2,Staff,1,Approved,Used,3,20,11,Short Lead,Completed,0.55
+RES1062,Lecture Hall,200,2,External,1,Approved,Used,17,154,102,Early Booking,Completed,0.66
+RES1063,Lab,200,4,Faculty,0,Approved,Used,7,86,65,Short Lead,Completed,0.76
+RES1064,Lecture Hall,100,5,Faculty,0,Approved,Used,11,75,46,Medium Lead,Completed,0.62
+RES1065,Conference Room,20,4,External,1,Approved,Used,28,13,9,Early Booking,Completed,0.72
+RES1066,Lab,20,2,Faculty,1,Approved,Used,25,18,14,Early Booking,Completed,0.79
+RES1067,Conference Room,100,2,Student,0,Approved,Used,7,33,21,Short Lead,Completed,0.63
+RES1068,Lab,20,2,External,1,Approved,Used,13,18,14,Medium Lead,Completed,0.76
+RES1069,Lecture Hall,200,2,Faculty,1,No-Show,No-Show,23,164,0,Early Booking,Not Completed,0.0
+RES1070,Lecture Hall,20,1,External,1,Approved,Used,16,14,11,Early Booking,Completed,0.8
+RES1071,Auditorium,50,4,External,1,No-Show,No-Show,27,18,0,Early Booking,Not Completed,0.0
+RES1072,Lecture Hall,20,4,Staff,1,No-Show,No-Show,18,8,0,Early Booking,Not Completed,0.0
+RES1073,Conference Room,100,1,External,1,Approved,Used,21,61,49,Early Booking,Completed,0.81
+RES1074,Auditorium,50,1,External,1,Approved,Used,9,42,36,Medium Lead,Completed,0.86
+RES1075,Auditorium,200,2,Student,1,Cancelled,No-Show,4,168,0,Short Lead,Not Completed,0.0
+RES1076,Lab,200,4,Faculty,0,No-Show,No-Show,20,162,0,Early Booking,Not Completed,0.0
+RES1077,Auditorium,20,4,External,1,Cancelled,No-Show,7,15,0,Short Lead,Not Completed,0.0
+RES1078,Lecture Hall,200,3,Staff,1,Approved,Used,21,151,128,Early Booking,Completed,0.85
+RES1079,Lecture Hall,50,1,External,1,Approved,Used,5,33,22,Short Lead,Completed,0.68
+RES1080,Auditorium,20,2,Faculty,1,Approved,Used,30,10,9,Early Booking,Completed,0.88
+RES1081,Lab,20,2,Staff,1,Approved,Used,30,9,9,Early Booking,Completed,0.95
+RES1082,Conference Room,100,2,Faculty,0,Approved,Used,18,51,34,Early Booking,Completed,0.67
+RES1083,Auditorium,20,1,Staff,1,No-Show,No-Show,17,13,0,Early Booking,Not Completed,0.0
+RES1084,Lecture Hall,20,3,Staff,1,No-Show,No-Show,16,11,0,Early Booking,Not Completed,0.0
+RES1085,Lab,100,2,Student,0,Approved,Used,24,35,28,Early Booking,Completed,0.79
+RES1086,Lab,200,1,Student,1,Approved,Used,7,169,152,Short Lead,Completed,0.9
+RES1087,Lab,50,5,Faculty,1,Approved,Used,11,36,26,Medium Lead,Completed,0.73
+RES1088,Lab,100,2,Student,0,Approved,Used,30,84,47,Early Booking,Completed,0.56
+RES1089,Auditorium,200,1,Student,1,Approved,Used,4,91,73,Short Lead,Completed,0.8
+RES1090,Lecture Hall,20,3,Student,1,Approved,Used,19,16,12,Early Booking,Completed,0.77
+RES1091,Lab,100,5,Staff,1,Approved,Used,5,84,67,Short Lead,Completed,0.8
+RES1092,Auditorium,200,2,Faculty,1,Approved,Used,8,93,75,Medium Lead,Completed,0.81
+RES1093,Lecture Hall,50,4,External,1,Approved,Used,5,20,11,Short Lead,Completed,0.57
+RES1094,Lab,200,4,Student,1,Approved,Used,12,91,49,Medium Lead,Completed,0.54
+RES1095,Lecture Hall,100,4,External,1,No-Show,No-Show,14,81,0,Medium Lead,Not Completed,0.0
+RES1096,Lecture Hall,20,1,Student,1,Approved,Used,28,16,8,Early Booking,Completed,0.51
+RES1097,Auditorium,50,4,Staff,1,Approved,Used,23,18,14,Early Booking,Completed,0.8
+RES1098,Conference Room,20,1,Staff,1,Approved,Used,12,8,5,Medium Lead,Completed,0.6
+RES1099,Lecture Hall,200,3,Faculty,1,Approved,Used,18,170,119,Early Booking,Completed,0.7
+RES1100,Lecture Hall,200,5,Faculty,1,No-Show,No-Show,3,101,0,Short Lead,Not Completed,0.0
+RES1101,Conference Room,20,4,Student,1,No-Show,No-Show,29,11,0,Early Booking,Not Completed,0.0
+RES1102,Lecture Hall,100,3,Staff,1,Cancelled,No-Show,10,81,0,Medium Lead,Not Completed,0.0
+RES1103,Lecture Hall,20,3,Faculty,1,Approved,Used,5,12,10,Short Lead,Completed,0.84
+RES1104,Auditorium,100,2,Faculty,1,Approved,Used,0,73,53,Last Minute,Completed,0.72
+RES1105,Lab,100,2,Faculty,0,Approved,Used,9,69,66,Medium Lead,Completed,0.95
+RES1106,Auditorium,200,1,Student,1,Approved,Used,9,75,43,Medium Lead,Completed,0.57
+RES1107,Conference Room,50,4,External,1,Approved,Used,5,30,18,Short Lead,Completed,0.61
+RES1108,Lab,50,2,Student,0,Approved,Used,11,27,24,Medium Lead,Completed,0.88
+RES1109,Lecture Hall,100,3,Faculty,1,Approved,Used,19,40,37,Early Booking,Completed,0.93
+RES1110,Lecture Hall,50,2,Student,1,Approved,Used,15,42,26,Early Booking,Completed,0.61
+RES1111,Auditorium,200,5,External,1,Approved,Used,9,128,87,Medium Lead,Completed,0.68
+RES1112,Lecture Hall,20,3,Faculty,1,Approved,Used,26,15,9,Early Booking,Completed,0.62
+RES1113,Conference Room,50,2,Staff,0,Cancelled,No-Show,16,39,0,Early Booking,Not Completed,0.0
+RES1114,Auditorium,100,4,Student,1,Approved,Used,18,68,50,Early Booking,Completed,0.73
+RES1115,Auditorium,100,5,Staff,1,Cancelled,No-Show,13,34,0,Medium Lead,Not Completed,0.0
+RES1116,Lecture Hall,100,2,External,1,Approved,Used,9,50,28,Medium Lead,Completed,0.57
+RES1117,Auditorium,20,2,Faculty,0,Approved,Used,12,13,10,Medium Lead,Completed,0.78
+RES1118,Conference Room,20,2,Faculty,1,Approved,Used,4,16,13,Short Lead,Completed,0.81
+RES1119,Conference Room,50,2,Staff,1,Approved,Used,29,25,18,Early Booking,Completed,0.74
+RES1120,Conference Room,20,5,External,0,Approved,Used,7,18,15,Short Lead,Completed,0.84
+RES1121,Lecture Hall,100,3,External,1,Cancelled,No-Show,13,45,0,Medium Lead,Not Completed,0.0
+RES1122,Conference Room,20,4,Staff,1,Approved,Used,8,10,6,Medium Lead,Completed,0.63
+RES1123,Lecture Hall,20,4,Faculty,1,Cancelled,No-Show,24,10,0,Early Booking,Not Completed,0.0
+RES1124,Conference Room,100,4,Student,0,Approved,Used,30,78,68,Early Booking,Completed,0.87
+RES1125,Conference Room,200,3,Student,0,Approved,Used,24,90,73,Early Booking,Completed,0.81
+RES1126,Auditorium,100,3,Faculty,1,Approved,Used,7,47,45,Short Lead,Completed,0.95
+RES1127,Auditorium,50,4,Student,1,Cancelled,No-Show,16,37,0,Early Booking,Not Completed,0.0
+RES1128,Lecture Hall,20,3,Faculty,1,Approved,Used,2,13,9,Last Minute,Completed,0.69
+RES1129,Lecture Hall,100,2,Faculty,0,Approved,Used,5,66,57,Short Lead,Completed,0.86
+RES1130,Auditorium,100,1,Faculty,0,Approved,Used,4,79,71,Short Lead,Completed,0.9
+RES1131,Lab,50,2,Faculty,0,Approved,Used,20,38,27,Early Booking,Completed,0.7
+RES1132,Conference Room,200,4,Student,0,Approved,Used,19,72,48,Early Booking,Completed,0.67
+RES1133,Auditorium,200,3,Staff,0,Approved,Used,26,114,83,Early Booking,Completed,0.73
+RES1134,Lab,20,1,External,1,Approved,Used,13,9,8,Medium Lead,Completed,0.85
+RES1135,Lecture Hall,20,5,External,1,Cancelled,No-Show,27,13,0,Early Booking,Not Completed,0.0
+RES1136,Auditorium,50,5,Staff,1,No-Show,No-Show,9,41,0,Medium Lead,Not Completed,0.0
+RES1137,Lab,200,4,External,1,Approved,Used,9,99,55,Medium Lead,Completed,0.56
+RES1138,Auditorium,50,2,Staff,1,Approved,Used,2,22,19,Last Minute,Completed,0.87
+RES1139,Lab,50,1,External,1,Approved,Used,26,22,18,Early Booking,Completed,0.81
+RES1140,Lab,100,1,Staff,0,Cancelled,No-Show,0,67,0,Last Minute,Not Completed,0.0
+RES1141,Auditorium,20,1,External,0,Approved,Used,3,17,9,Short Lead,Completed,0.55
+RES1142,Auditorium,20,2,Faculty,0,Approved,Used,27,16,15,Early Booking,Completed,0.94
+RES1143,Conference Room,50,5,External,0,No-Show,No-Show,0,25,0,Last Minute,Not Completed,0.0
+RES1144,Lecture Hall,20,1,External,1,No-Show,No-Show,23,17,0,Early Booking,Not Completed,0.0
+RES1145,Auditorium,200,4,External,0,Approved,Used,3,94,82,Short Lead,Completed,0.87
+RES1146,Lecture Hall,50,2,Faculty,0,Approved,Used,23,15,13,Early Booking,Completed,0.89
+RES1147,Auditorium,100,1,Staff,0,No-Show,No-Show,16,30,0,Early Booking,Not Completed,0.0
+RES1148,Lab,100,1,Faculty,0,Approved,Used,16,70,50,Early Booking,Completed,0.71
+RES1149,Conference Room,100,2,Student,1,Approved,Used,26,76,59,Early Booking,Completed,0.78

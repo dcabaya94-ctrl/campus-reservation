@@ -1,0 +1,31 @@
+Reservation_ID,Capacity,Reservation_Duration_Hours,Facility_Type,User_Type,Lead_Time_Category,Actual_Outcome,Midterm_Prediction
+RES1019,20,1,Lab,Staff,Early Booking,Completed,Completed
+RES1133,200,3,Auditorium,Staff,Early Booking,Completed,Not Completed
+RES1050,100,4,Auditorium,Faculty,Early Booking,Not Completed,Completed
+RES1031,20,2,Lab,Student,Early Booking,Completed,Completed
+RES1021,200,5,Conference Room,Faculty,Early Booking,Not Completed,Not Completed
+RES1111,200,5,Auditorium,External,Medium Lead,Completed,Completed
+RES1117,20,2,Auditorium,Faculty,Medium Lead,Completed,Completed
+RES1118,20,2,Conference Room,Faculty,Short Lead,Completed,Completed
+RES1147,100,1,Auditorium,Staff,Early Booking,Not Completed,Not Completed
+RES1068,20,2,Lab,External,Medium Lead,Completed,Completed
+RES1070,20,1,Lecture Hall,External,Early Booking,Completed,Completed
+RES1003,100,5,Auditorium,Faculty,Medium Lead,Completed,Not Completed
+RES1131,50,2,Lab,Faculty,Early Booking,Completed,Completed
+RES1149,100,2,Conference Room,Student,Early Booking,Completed,Completed
+RES1138,50,2,Auditorium,Staff,Last Minute,Completed,Not Completed
+RES1040,50,2,Conference Room,Faculty,Medium Lead,Completed,Completed
+RES1097,50,4,Auditorium,Staff,Early Booking,Completed,Not Completed
+RES1034,200,2,Auditorium,Staff,Early Booking,Completed,Not Completed
+RES1016,50,5,Auditorium,Student,Early Booking,Not Completed,Not Completed
+RES1002,100,2,Lab,Student,Short Lead,Completed,Completed
+RES1103,20,3,Lecture Hall,Faculty,Short Lead,Completed,Completed
+RES1101,20,4,Conference Room,Student,Early Booking,Not Completed,Completed
+RES1146,50,2,Lecture Hall,Faculty,Early Booking,Completed,Completed
+RES1048,200,5,Auditorium,External,Medium Lead,Completed,Completed
+RES1085,100,2,Lab,Student,Early Booking,Completed,Completed
+RES1125,200,3,Conference Room,Student,Early Booking,Completed,Completed
+RES1023,100,5,Lab,Student,Early Booking,Not Completed,Completed
+RES1123,20,4,Lecture Hall,Faculty,Early Booking,Not Completed,Completed
+RES1027,20,3,Lecture Hall,Faculty,Early Booking,Not Completed,Completed
+RES1030,50,1,Lecture Hall,Faculty,Early Booking,Completed,Completed

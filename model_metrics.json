@@ -1,0 +1,48 @@
+{
+  "model_version": "dt-v1.0 (midterm reuse)",
+  "algorithm": "DecisionTreeClassifier(max_depth=5, random_state=42)",
+  "trained_at": "2026-10-26 08:53",
+  "positive_class": "Completed",
+  "split": "80/20 stratified, random_state=42 (train 120 / test 30)",
+  "features": [
+    "Capacity",
+    "Reservation_Duration_Hours",
+    "Facility_Type",
+    "User_Type",
+    "Lead_Time_Category"
+  ],
+  "confusion_matrix": [
+    [
+      3,
+      5
+    ],
+    [
+      5,
+      17
+    ]
+  ],
+  "confusion_labels": [
+    "Not Completed",
+    "Completed"
+  ],
+  "accuracy": 0.6667,
+  "precision": 0.7727,
+  "recall": 0.7727,
+  "f1": 0.7727,
+  "feature_importances": {
+    "Reservation_Duration_Hours": 0.292175,
+    "Capacity": 0.280808,
+    "Facility_Type_Auditorium": 0.099964,
+    "User_Type_Staff": 0.09254,
+    "Facility_Type_Lecture Hall": 0.084396,
+    "Facility_Type_Lab": 0.075676,
+    "Lead_Time_Category_Short Lead": 0.056582,
+    "User_Type_Student": 0.01786,
+    "Facility_Type_Conference Room": 0.0,
+    "User_Type_Faculty": 0.0,
+    "User_Type_External": 0.0,
+    "Lead_Time_Category_Early Booking": 0.0,
+    "Lead_Time_Category_Last Minute": 0.0,
+    "Lead_Time_Category_Medium Lead": 0.0
+  }
+}
